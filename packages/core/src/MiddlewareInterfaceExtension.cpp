@@ -19,6 +19,7 @@
 
 #include <experimental/filesystem>
 #include <iostream>
+#include <cassert>
 
 #ifdef WIN32
 // WINDOWS includes
